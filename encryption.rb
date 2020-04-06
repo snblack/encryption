@@ -1,5 +1,6 @@
 #подключаем библиотеку для шифрования
 require "digest"
+puts "HEllo"
 
 puts "Введите слово или фразу для шифрования:"
 phrase = STDIN.gets.chomp
